@@ -1,0 +1,230 @@
+{
+  "FR": {
+
+    /*HOME MENU*/
+    "home": "Bienvenue sur l'application EasySave\n",
+    "save_menu": "1. Menu sauvegarde\n",
+    "config_menu": "2. Configuration\n",
+    "exit": "9. Quitter l'application\n",
+
+    /*CONFIG MENU*/
+    "config_lang": "1. Choisir la langue\n",
+    "config_log": "2. Choisir le format des fichiers logs\n",
+    "config_process": "3. Choisir les logiciels métiers\n",
+
+    /*LOG MENU*/
+    "log_JSON": "1. JSON\n",
+    "log_XML": "2. XML\n",
+
+    /*SELECT LANG*/
+    "select_language": "Veuillez choisir la langue\n",
+    "lang_1": "1. Français\n",
+    "lang_2": "2. Anglais\n",
+    "lang_3": "3. Espagnol\n",
+    "lang_4": "4. Chinois\n",
+
+    /*JOB ADD*/
+    "name_job": "Saississez le nom du Job :",
+    "file_src": "Saississez le chemin du fichier source :",
+    "destination": "Saississez le chemin de destination :",
+    "jobtype": "Saisissez le type de save : 1 pour différentiel , 2 pour complete",
+    "validpath": "Entrez un chemin valide : \n",
+    "validnumber": "Entrez un numéro valide : \n",
+
+    /*JOB SELECTION*/
+    "save": "1. Lancer la sauvegarde\n",
+    "edit": "2. Modifier\n",
+    "delete": "3. Supprimer\n",
+
+    /*JOB MENU*/
+    "file": "x. Fichier x :\n",
+    "create_save": "C. Créer une sauvegarde\n",
+    "run_all_save": "A. Lancer toutes les sauvegardes\n",
+
+    "select": "Sélectionner une option :",
+    "back": "E. Revenir au menu précédent\n",
+
+    "bye": "Au revoir",
+
+    /*JOB VUE*/
+    "fonct": "Fonctionnalité non disponible pour le moment",
+
+    /*PROCESS VUE*/
+    "process_name": "Ecrivez le nom du processus\n",
+    "process_select1": "Que voulez vous faire avec le processus\n",
+    "process_select2": "Appuyez sur 0 pour le supprimer\n",
+    "process_vue1": "Liste des logiciels métiers\n",
+    "process_vue2": "Entrez C pour en créer un nouveau et E pour retourner en arrière\n"
+  },
+
+  "EN": {
+
+    /*HOME MENU*/
+    "home": "Welcome to the EasySave app\n",
+    "save_menu": "1. Save menu\n",
+    "config_menu": "2. Setup\n",
+    "exit": "9. Exit\n",
+
+    /*CONFIG MENU*/
+    "config_lang": "1. Choose the language\n",
+    "config_log": "2. Choose the format of the log files\n",
+    "config_process": "3. Select Software package\n",
+
+    /*LOG MENU*/
+    "log_JSON": "1. JSON\n",
+    "log_XML": "2. XML\n",
+
+    /*SELECT LANG*/
+    "select_language": "Please select the language\n",
+    "lang_1": "1. French\n",
+    "lang_2": "2. English\n",
+    "lang_3": "3. Spanish\n",
+    "lang_4": "4. Chinese\n",
+
+    /*JOB ADD*/
+    "name_job": "Type in the name of the Job :",
+    "file_src": "Type in the path of the source file :",
+    "destination": "Type in the destination path :",
+    "jobtype": "Enter the type of save: 1 for differential, 2 for complete",
+    "validpath": "Enter a valid path : \n",
+    "validnumber": "Enter a valid number : \n",
+
+    /*JOB SELECTION*/
+    "save": "1. Save\n",
+    "edit": "2. Edit\n",
+    "delete": "3. Delete\n",
+
+    /*JOB MENU*/
+    "file": "x. File x :\n",
+    "create_save": "C. Create a save\n",
+    "run_all_save": "A. Launch all saves\n",
+
+    "select": "Select an option :",
+    "back": "E. Back\n",
+
+    "bye": "Good bye",
+
+    /*JOB VUE*/
+    "fonct": "Feature not available at this time",
+
+    /*PROCESS VUE*/
+    "process_name": "Write the name of the process\n",
+    "process_select1": "What do you want to do with the process\n",
+    "process_select2": "Press 0 to delete it\n",
+    "process_vue1": "List of business software\n",
+    "process_vue2": "Enter C to create a new one and E to go back\n"
+
+  },
+  "ES": {
+    /*HOME MENU*/
+    "home": "Bienvenido a la aplicación EasySave\n",
+    "save_menu": "1. Menú de copia de seguridad\n",
+    "config_menu": "2. Configuración\n",
+    "exit": "9. Salir de la aplicación\n",
+
+    /*CONFIG MENU*/
+    "config_lang": "1. Elija la lengua\n",
+    "config_log": "2. Elija el formato de los archivos de registro\n",
+    "config_process": "3. Elegir el software de negocio\n",
+
+    /*LOG MENU*/
+    "log_JSON": "1. JSON\n",
+    "log_XML": "2. XML\n",
+
+    /*SELECT LANG*/
+    "select_language": "Seleccionar el idioma\n",
+    "lang_1": "1. Francés\n",
+    "lang_2": "2. Inglés\n",
+    "lang_3": "3. Español\n",
+    "lang_4": "4. Chino\n",
+
+    /*JOB ADD*/
+    "name_job": "Estacione el nombre del Job :",
+    "file_src": "Estacione la ruta del archivo fuente :",
+    "destination": "Estacionar la ruta de destino :",
+    "jobtype": "Introduzca el tipo de guardado: 1 para diferencial, 2 para completo",
+    "validpath": "Introduzca una ruta válida : \n",
+    "validnumber": "Introduzca un número válido : \n",
+
+    /*JOB SELECTION*/
+    "save": "1. Iniciar la copia de seguridad\n",
+    "edit": "2. Editar\n",
+    "delete": "3. Eliminar\n",
+
+    /*JOB MENU*/
+    "file": "x. Archivo x :\n",
+    "create_save": "C. Crear una copia de seguridad\n",
+    "run_all_save": "A. Iniciar todas las copias de seguridad\n",
+
+    "select": "Seleccionar una opción",
+    "back": "E. Volver al menú anterior\n",
+
+    "bye": "Adiós",
+
+    /*JOB VUE*/
+    "fonct": "Funcionalidad no disponible por el momento",
+
+    /*PROCESS VUE*/
+    "process_name": "Escriba el nombre del proceso\n",
+    "process_select1": "Qué quiere hacer con el proceso\n",
+    "process_select2": "Pulse 0 para borrarlo\n",
+    "process_vue1": "Lista de programas informáticos para empresas\n",
+    "process_vue2": "Introduce C para crear una nueva y E para volver atrás\n"
+  },
+  "CH": {
+    /*HOME MENU*/
+    "home": "欢迎使用EasySave应用程序\n",
+    "save_menu": "1. 备份菜单\n",
+    "config_menu": "2. 配置\n",
+    "exit": "9. 退出应用程序\n",
+
+    /*CONFIG MENU*/
+    "config_lang": "1. 选择语言\n",
+    "config_log": "2. 选择日志文件的格式\n",
+    "config_process": "3. 选择商务软件\n",
+
+    /*LOG MENU*/
+    "log_JSON": "1. JSON\n",
+    "log_XML": "2. XML\n",
+
+    /*SELECT LANG*/
+    "select_language": "选择语言\n",
+    "lang_1": "1. 弗朗西斯\n",
+    "lang_2": "2. 英语\n",
+    "lang_3": "3. 西班牙\n",
+    "lang_4": "4. 中国\n",
+
+    /*JOB ADD*/
+    "name_job": "挑选工作的名称 :",
+    "file_src": "挑选源文件的路径 :",
+    "destination": "停放目的地路线 :",
+    "jobtype": "输入保存的类型：1表示差额，2表示完全",
+    "validpath": "输入一个有效的路径 : \n",
+    "validnumber": "输入一个有效的号码 : \n",
+
+    /*JOB SELECTION*/
+    "save": "1. 开始备份\n",
+    "edit": "2. 编辑\n",
+    "delete": "3. 删除\n",
+
+    /*JOB MENU*/
+    "file": "x. 档案 x :\n",
+    "create_save": "C. 创建一个备份副本\n",
+    "run_all_save": "A. 开始所有的备份\n",
+
+    "select": "选择一个选项",
+    "back": "E. 返回上一个菜单\n",
+
+    "bye": "再见",
+
+    /*JOB VUE*/
+    "fonct": "目前还不能使用的功能",
+
+    /*PROCESS VUE*/
+    "process_name": "写下进程的名称\n",
+    "process_select1": "你想在这个过程中做什么\n",
+    "process_select2": "按0来删除它\n",
+    "process_vue1": "商业软件清单\n",
+    "process_vue2": "输入C可以创建一个新的，输入E可以返回\n"
+  }
+}
