@@ -1,0 +1,63 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>téléchargement.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="téléchargement.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AdonisUI" Version="1.17.1" />
+    <PackageReference Include="AdonisUI.ClassicTheme" Version="1.17.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EasySaveLib\EasySaveLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="ShowExtensionVue.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowFileSizeVue.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowJobEditVue.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="HomeVue.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowLanguageVue.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowExtPrioVue.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowProcessAddVue.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowProcessVue.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowLogVue.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowConfigVue.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowJobSelectionVue.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShowJobAddVue.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="EasySaveApp.HomeVue">
+    <Position X="9" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAACQAAIAAAAABAACAAAAAAABAgAIAAAAAAAAA=</HashCode>
+      <FileName>HomeVue.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controller" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasySaveApp.ShowConfigVue">
+    <Position X="2" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACCQAAIAEAAAAQEAAAAAAAABAQAAAAAAAAAAA=</HashCode>
+      <FileName>ShowConfigVue.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controller" />
+    </ShowAsAssociation>
+    <Lollipop Orientation="Right" Position="0.1" />
+  </Class>
+  <Class Name="EasySaveApp.ShowJobAddVue">
+    <Position X="5.5" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABCQAAIQAAAAAYAAAAAAAAAhAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShowJobAddVue.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controller" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Window" Collapsed="true">
+    <Position X="18.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EasySaveApp.ShowJobEditVue">
+    <Position X="12.5" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACQAAIAAAAAAYAQAAAAAAABAEAAAAIAAAAAA=</HashCode>
+      <FileName>ShowJobEditVue.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controller" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasySaveApp.ShowJobSelectionVue">
+    <Position X="16" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABACQAAIAAAAAAQDAAQAAAABBAAEAAAIBECAgA=</HashCode>
+      <FileName>ShowJobSelectionVue.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controller" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasySaveApp.ShowJobVue">
+    <Position X="19.5" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABCQCAIAAEAAAQAAAAAAEAABAEAAAAAAAAAAA=</HashCode>
+      <FileName>ShowJobVue.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controller" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasySaveApp.ShowLanguageVue">
+    <Position X="21.5" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACQAAIAAAAAAQAAAAAAAAABAAAAAAAAAAAAE=</HashCode>
+      <FileName>ShowLanguageVue.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controller" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasySaveApp.ShowLogVue">
+    <Position X="24.75" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACQAAIAAIAAAwAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShowLogVue.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controller" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasySaveApp.ShowProcessAddVue">
+    <Position X="27.75" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACQAAIQAAAgAYAAIAAAAAABACAAAAAAAAAAQ=</HashCode>
+      <FileName>ShowProcessAddVue.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controller" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasySaveApp.ShowProcessVue">
+    <Position X="31.25" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAACQAAIAhAAgA4AAIAAAEAABACAAAAAAAAAAA=</HashCode>
+      <FileName>ShowProcessVue.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Controller" />
+    </ShowAsAssociation>
+    <Lollipop Position="2.05" />
+  </Class>
+  <Class Name="EasySaveApp.DisplayError" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQCACAAAgAAIAAAAKAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DisplayError.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EasySaveApp.App">
+    <Position X="0.5" Y="10.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Application" Collapsed="true">
+    <Position X="0.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasySaveLib.Controller.ShowConfigController">
+    <Position X="2" Y="2" Width="2.75" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="Vue" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EasySaveLib.Model.Stockage">
+    <Position X="6.25" Y="9.25" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EasySaveLib.Model.StockageLanguage">
+    <Position X="3.25" Y="9.25" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EasySaveLib.Controller.ShowJobAddController">
+    <Position X="5.5" Y="2.25" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="HomeController">
+    <Position X="9" Y="0.5" Width="2.75" />
+    <NestedTypes>
+      <Class Name="HomeController.OnSaveDone" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EasySaveLib.Controller.ShowJobEditController">
+    <Position X="12.5" Y="2.25" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EasySaveLib.Controller.ShowJobSelectionController">
+    <Position X="16" Y="11" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EasySaveLib.Controller.ShowJobController">
+    <Position X="19.5" Y="10.25" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EasySaveLib.Controller.LangueController">
+    <Position X="21.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="Vue" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EasySaveLib.Controller.ShowLogController">
+    <Position X="24.75" Y="10" Width="2.75" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="Vue" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EasySaveLib.Controller.ShowProcessAddController">
+    <Position X="28.5" Y="2.5" Width="2.75" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="Vue" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="EasySaveLib.Controller.ShowProcessController">
+    <Position X="31.25" Y="10.5" Width="2.75" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="Vue" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Services">
+    <Position X="8.5" Y="9.25" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Collections.Generic.List&lt;T&gt;" Collapsed="true">
+    <Position X="13.5" Y="10" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Collections.Generic.List&lt;T&gt;.Enumerator" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EasySaveLib.Model.Save">
+    <Position X="11.5" Y="9.25" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EasySaveLib.Model.process">
+    <Position X="13.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="EasySaveLib.Vue.IShowProcessVue">
+    <Position X="28.75" Y="10.75" Width="1.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="EasySaveLib.Vue.IShowProcessAddVue">
+    <Position X="32.5" Y="2.5" Width="2" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="EasySaveLib.Vue.IShowLangueVue">
+    <Position X="25.25" Y="1" Width="1.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="EasySaveLib.Vue.IShowLogVue">
+    <Position X="22.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="EasySaveLib.Vue.IShowConfigVue" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

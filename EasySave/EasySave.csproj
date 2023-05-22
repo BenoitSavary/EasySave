@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>téléchargement.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="téléchargement.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EasySaveLib\EasySaveLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CryptoSoft">
+      <HintPath>..\..\..\..\Downloads\CryptoSoft-20230217T140710Z-001\CryptoSoft\CryptoSoft\bin\Debug\net6.0\CryptoSoft.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
